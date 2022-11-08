@@ -10,4 +10,3 @@ if __name__ == '__main__':
         time.sleep(3)
         CryptoCurrency.clean_prices()
         os.system("cls")
-        
